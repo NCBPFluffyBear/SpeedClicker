@@ -1,6 +1,6 @@
 # SpeedClicker
 ###### By PhadingFuzzy, Made for bryantandpat
-
+To Download: Go to releases (https://github.com/NCBPFluffyBear/SpeedClicker/releases) and click SpeedClicker.exe to download. It is recommended that you move it to desktop. Open SpeedClicker.exe to get started!
 ## Controls:
 - Toggle SpeedClicker: `Alt` + Backtick ( \` )
 - Exit SpeedClicker: `Shift` + Backtick ( \` )
